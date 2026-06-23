@@ -8,3 +8,7 @@ author = [
     'Jordan Mathieu',
     'Louis-Etienne Messier'
 ]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
