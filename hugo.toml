@@ -1,0 +1,10 @@
+baseURL = 'https://firstline.com'
+languageCode = 'en-us'
+title = 'First Line'
+theme = 'ananke'
+
+[params]
+author = [
+    'Jordan Mathieu',
+    'Louis-Etienne Messier'
+]
