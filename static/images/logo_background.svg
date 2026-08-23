@@ -1,0 +1,28 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="9" y="13" width="283" height="275" rx="50" fill="url(#paint0_linear_141_287)"/>
+<path d="M150 42L241 102" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M150 42L59 102" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M150 42V102.5" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M59 102H150" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M59 102L94 199" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M59 102L59 199" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M150 102H241" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M150 102L206 199" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M150 102L93.9933 198.996" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M241 199L241 102" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M206 199L241 102" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M150 199L94 199" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M59 199L94 199" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M150 259L94 199" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M59 199L150 259" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M150 199L206 199" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M241 199L206 199" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M150 259L206 199" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<path d="M241 199L150 259" pathLength="1" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-dasharray="1 1"/>
+<defs>
+<linearGradient id="paint0_linear_141_287" x1="150.5" y1="13" x2="150.5" y2="288" gradientUnits="userSpaceOnUse">
+<stop stop-color="#252525"/>
+<stop offset="1"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,13 +1,21 @@
 baseURL = 'https://firstline.com'
 languageCode = 'en-us'
-title = 'First Line'
+title = 'Medgraph'
 theme = 'ananke'
 
 [params]
+site_logo = "/images/logo_and_label.svg"
+favicon = "/images/favicon.ico"
+
 author = [
     'Jordan Mathieu',
     'Louis-Etienne Messier'
 ]
+
+[[menus.main]]
+name = "Posts"
+url = "/posts/"
+weight = 10
 
 [caches]
   [caches.images]
