@@ -17,3 +17,8 @@ docker exec -it blog-hugo-1 sh
 ```md
 hugo new content content/posts/[new post of log].md
 ```
+
+## Deployment
+
+### URL
+https://medgraph-ulaval.github.io/blog/
