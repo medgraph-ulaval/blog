@@ -1,0 +1,79 @@
+/* Keep the footer at the bottom of the viewport on short pages. */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+footer {
+  flex-shrink: 0;
+}
+
+/* Page title + logo rotation */
+.page-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.page-title h1 {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  line-height: 1;
+}
+
+.page-title-lottie {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 6.5rem;
+  height: 6.5rem;
+  flex-shrink: 0;
+  line-height: 0;
+}
+
+.page-title-lottie canvas {
+  display: block;
+}
+
+@media screen and (min-width: 40em) {
+  .page-title {
+    flex-direction: row;
+    align-items: center;
+    gap: 1.25rem;
+  }
+
+  .page-title-lottie {
+    width: 7.5rem;
+    height: 7.5rem;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .page-title-lottie {
+    width: 9.5rem;
+    height: 9.5rem;
+  }
+}
+
+/* Whole post summary card is one link */
+.post-card-link {
+  transition: opacity 0.15s ease;
+}
+
+.post-card-link:hover,
+.post-card-link:focus {
+  opacity: 0.85;
+}
+
+.post-card-link:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
