@@ -1,4 +1,4 @@
-baseURL = 'https://firstline.com'
+baseURL = 'https://medgraph-ulaval.github.io/blog/'
 languageCode = 'en-us'
 title = 'Medgraph - blog'
 theme = 'ananke'
