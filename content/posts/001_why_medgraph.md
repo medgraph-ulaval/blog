@@ -1,7 +1,6 @@
 +++
 title = 'Why Medgraph?'
 date = 2026-08-24
-draft = true
 featured_image = "posts/why_medgraph.png"
 author = "Louis-Etienne Messier"
 +++
